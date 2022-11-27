@@ -1,0 +1,14 @@
+table:nth-child(odd){
+background: rgb(77, 218, 77);
+}
+
+tr:nth-child(even) {
+background: rgb(234, 246, 225);
+}
+.tr:nth-child(1){
+    background: rgb(2, 53, 2);
+}
+tr:hover{
+    background: rgb(42, 125, 167);
+    opacity: 1;
+}
